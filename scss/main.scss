@@ -253,11 +253,13 @@ a:hover::after{
         padding: 56px 0 56px 0;
         text-align: center;
     }
+
     .navigation{
         display: flex;
         flex-direction: column;
         gap: 32px 0;
         color: white;
+        margin-bottom: 48px;
 
         a{
             @include typography(0.9375rem, white, 400, 25px, 0);
