@@ -20,7 +20,7 @@ export default function Header() {
         </h1>
         <ul className={menu ? "isActive" : ""}>
           <li>
-            <a href="#about">About</a>
+            <a href="#">About</a>
           </li>
           <li>
             <a href="#careers">Careers</a>
