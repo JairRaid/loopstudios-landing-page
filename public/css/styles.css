@@ -1,0 +1,19 @@
+/* font */
+@font-face {
+  font-family: "Josephin";
+  src: url("../fonts/JosefinSans-VariableFont_wght.ttf") format("truetype");
+}
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: "Josephin", sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map */
