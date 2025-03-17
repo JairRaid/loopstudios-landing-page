@@ -139,22 +139,22 @@ function App() {
           <div className="social">
             <ul>
               <li>
-                <a href="#">
+                <a href="#facebook">
                   <img src="images/icon-facebook.svg" alt="Facebook" />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#twitter">
                   <img src="images/icon-twitter.svg" alt="Twitter" />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#instagram">
                   <img src="images/icon-instagram.svg" alt="Instagram" />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#pinterest">
                   <img src="images/icon-pinterest.svg" alt="Pinterest" />
                 </a>
               </li>
