@@ -249,6 +249,7 @@ a:hover::after {
     flex-direction: column;
     gap: 32px 0;
     color: white;
+    margin-bottom: 48px;
   }
   .navigation a {
     font-size: 0.9375rem;
