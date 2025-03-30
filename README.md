@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/JairRaid/loopstudios-landing-page
+- Live Site URL: https://jairraid.github.io/loopstudios-landing-page/
 
 ## My process
 
